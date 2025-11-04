@@ -1,28 +1,13 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Hamburguer",
-            "category": "Alimentação",
-            "type": "outcome",
-            "price": 50,
-            "createdAt": "2025-10-29T10:00:00.664Z"
-        },
-        {
-            "id": 2,
-            "description": "Salario",
-            "category": "trabalho",
-            "type": "income",
-            "price": 5000,
-            "createdAt": "2025-10-29T10:00:00.664Z"
-        },
-        {
-            "id": 3,
-            "description": "Combustivel",
-            "category": "Carro",
-            "type": "outcome",
-            "price": 200,
-            "createdAt": "2025-10-29T05:30:00.664Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Hamburguer",
+      "category": "Alimentação",
+      "type": "outcome",
+      "price": 50,
+      "createdAt": "2025-10-29T10:00:00.664Z"
+    }
+    
+  ]
 }
